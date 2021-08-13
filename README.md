@@ -22,4 +22,11 @@
 - Segundo paso: implementar formulas en JS
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML
+
+## Taller #4: salarios 
+
+- Primero paso: definir las formulas
+- Segundo paso: implementar formulas en JS
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
  
